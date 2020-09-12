@@ -1,7 +1,8 @@
 body {
     position: relative;
     background-color: rgba(83,83,83,0.5);
-    min-height:100vh; margin:0;
+    min-height:100vh; 
+    margin:0;
 }
 
 .app-header{
@@ -65,7 +66,11 @@ body::after {
     text-align: center;
 }
 
-.contact-us-cotainer {
+.contact-us-container {
     color: #f5efef;
     margin-top:30px;
+}
+
+.body-container {
+    height: 90vh;;
 }
